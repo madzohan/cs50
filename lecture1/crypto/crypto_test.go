@@ -62,5 +62,3 @@ func TestEncode(t *testing.T) {
 		t.Errorf("expected %v, got %v", expected, got)
 	}
 }
-
-// разобраться gpg и запушить в новую репу
